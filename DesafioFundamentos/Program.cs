@@ -20,6 +20,7 @@ string opcao = string.Empty;
 bool exibirMenu = true;
 
 // Realiza o loop do menu
+//aqui eu adicionei cores
 while (exibirMenu)
 {
     Console.Clear();
